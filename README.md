@@ -5,7 +5,7 @@ Example Usage:
 ```
 $ plash run --from-ubuntu cosmic
 plash: eval: macro 'from-ubuntu' not found
-$ pip3 install  git+https://github.com/ihucos/plash.git
+$ pip3 install  git+https://github.com/ihucos/plashmisc.git
 $ plash run --import plashmisc --from-ubuntu cosmic -- printf 'hi\n'
 hi
 ```
